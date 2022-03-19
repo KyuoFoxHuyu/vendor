@@ -783,7 +783,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdService \
-    WfdCommon \
     audiosphere \
     QtiTelephonyServicelibrary \
     com.qti.dpmframework \
